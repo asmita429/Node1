@@ -8,5 +8,8 @@
   },
   "author": "Asmita",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
 }
